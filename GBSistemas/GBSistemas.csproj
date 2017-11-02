@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AA5CCCC-3049-4C31-87E4-B7DDE57FA74C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GBSistemas</RootNamespace>
+    <AssemblyName>GBSistemas</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONTROLE\ClienteDAO.cs" />
+    <Compile Include="CONEXAO\ConexaoDAL.cs" />
+    <Compile Include="CONTROLE\Consistencia.cs" />
+    <Compile Include="CONTROLE\FornecedorDAO.cs" />
+    <Compile Include="CONTROLE\ProdutoDAO.cs" />
+    <Compile Include="CONTROLE\UsuarioDAO.cs" />
+    <Compile Include="CONTROLE\VendasDAO.cs" />
+    <Compile Include="MODELO\AbreCaixaDTO.cs" />
+    <Compile Include="MODELO\FormaPag.cs" />
+    <Compile Include="MODELO\ItensVendas.cs" />
+    <Compile Include="MODELO\VendasDTO.cs" />
+    <Compile Include="VISAO\frmFormaPag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmFormaPag.Designer.cs">
+      <DependentUpon>frmFormaPag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISAO\frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODELO\FornecedorDTO.cs" />
+    <Compile Include="VISAO\frmAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmAcesso.Designer.cs">
+      <DependentUpon>frmAcesso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODELO\ClienteDTO.cs" />
+    <Compile Include="MODELO\ProdutoDTO.cs" />
+    <Compile Include="VISAO\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISAO\frmFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmFornecedor.Designer.cs">
+      <DependentUpon>frmFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MODELO\UsuarioDTO.cs" />
+    <Compile Include="VISAO\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISAO\frmBilheteria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmBilheteria.Designer.cs">
+      <DependentUpon>frmBilheteria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISAO\frmProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmProdutos.Designer.cs">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISAO\frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISAO\frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="VISAO\frmFormaPag.resx">
+      <DependentUpon>frmFormaPag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmAcesso.resx">
+      <DependentUpon>frmAcesso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmFornecedor.resx">
+      <DependentUpon>frmFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmBilheteria.resx">
+      <DependentUpon>frmBilheteria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmProdutos.resx">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISAO\frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-users-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb-1920-535390 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botoes_5113_add_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Paste_1493290 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botoes_5123_cancel_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_xfce-system-exit_23651 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botoes_5122_accepted_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keys-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_xfce-system-exit_23651.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calculator_43665 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_tickets_49628.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-paste_38992 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cashbox_45016 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cash_register_17219 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Finance_loan_money_1889199.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_shopping cart_17227.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_shopping-basket-refresh_63153.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_shopping-basket-add_63149.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basket1_91824 %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+29.07.2017
+FORMULARIO PRINCIPAL 
+FORMULARIO CADASTRO USUARIO
+FORMULARIO CADASTRO DE PRODUTOS
+FORMULARIO BILHETERIA SEM CONEXAO COM BANCO ( CONTROLE INTERNO)
+BOTOES
+
+atualização 04.08.2017
+
+barra de status data e hora
+---------------------------------------------
+atualização 08.08.2017
+
+inicialização das classes de conexao com banco cadastro de usuario
+cadastro no formulario de usuario funcionando no banco de dados, (cadastrdo com sucesso)
+---------------------------------------------
+atualização 21.08.2017
+formulario de cadastro de fornecedor
+formulario de cadastro de cliente
+_____________________________________________
+atualização 22.08.2017
+
+atualização tela de usuario
+programação DTO cliente
+
+
+

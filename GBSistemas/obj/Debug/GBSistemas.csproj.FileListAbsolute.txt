@@ -1,0 +1,197 @@
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\bin\Debug\MySql.Data.dll
+C:\Users\Michell\Desktop\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.dll
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+C:\Users\Técnico\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+H:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+L:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+E:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.dll
+F:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+G:\ETEC\3ª MODULO\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.VISAO.frmFormaPag.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+G:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+L:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+L:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+L:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.VISAO.frmFormaPag.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+F:\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+E:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+E:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+E:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+D:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+D:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+D:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe.config
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.exe
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.pdb
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.exe
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\GBSistemas.pdb
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\bin\Debug\MySql.Data.xml
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csprojResolveAssemblyReference.cache
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.VISAO.frmFormaPag.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmAcesso.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmClientes.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmFornecedor.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmPrincipal.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmBilheteria.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmProdutos.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmUsuario.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.Properties.Resources.resources
+G:\DS II\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.csproj.GenerateResource.Cache
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.VISAO.frmFormaPag.resources
+C:\Users\Michell\Desktop\IMPORTANTE BACKUP PROJETO TCC GB SISTEMAS\GBSistemas\GBSistemas\obj\Debug\GBSistemas.frmVendas.resources
